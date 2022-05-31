@@ -4,7 +4,7 @@
 
 Recommend an AirBnb listing based on the description of a User's historical listing.
 
-The following implementation compare recommendation accuracy scores of two algorithms, BERT and TF-IDF
+The following implementation compares recommendation accuracy scores of two algorithms, BERT and TF-IDF.
 
 ---
 
