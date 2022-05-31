@@ -1,10 +1,10 @@
-# content-based-recommendation-system
-
-
+# Content-Based Recommendation System
 
 ### BACKGROUND: 
 
-Recommend an AirBnb listing based on the description of a User's historical listings.
+Recommend an AirBnb listing based on the description of a User's historical listing.
+
+The following implementation compare recommendation accuracy scores of two algorithms, BERT and TF-IDF
 
 ---
 
